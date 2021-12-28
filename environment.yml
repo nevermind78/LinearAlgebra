@@ -10,7 +10,7 @@ dependencies:
  - numpy=1.20.1=py38h93e21f0_0
  - numpy-base=1.20.1=py38h7d8b39e_0 
  - ipywidgets=7.6.3=pyhd3eb1b0_1
-  - pip:
+ - pip:
     - python-graphviz==0.17
     - plotly==5.5.0
 
