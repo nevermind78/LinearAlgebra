@@ -349,4 +349,5 @@ dependencies:
   - zstd=1.4.5=h9ceee32_0
   - pip:
     - python-graphviz==0.17
+    - plotly==5.5.0
 prefix: /media/nevermind/D/anaconda3
